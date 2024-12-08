@@ -6,11 +6,7 @@ This project demonstrates the use of a pre-trained `ResNet18` model for binary i
 1. [Project Overview](#project-overview)
 2. [Dataset](#dataset)
 3. [Requirements](#requirements)
-4. [Setup Instructions](#setup-instructions)
-5. [Model Preparation](#model-preparation)
-6. [Training and Evaluation](#training-and-evaluation)
-7. [Results](#results)
-8. [Acknowledgments](#acknowledgments)
+
 
 ## Project Overview
 This project uses a transfer learning approach to classify images into two categories: positive and negative. It involves:
